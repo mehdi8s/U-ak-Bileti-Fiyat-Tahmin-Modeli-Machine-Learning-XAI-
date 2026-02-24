@@ -228,16 +228,4 @@ MakineÖğrenmesiProje/
 
 ---
 
-## 📚 Course Information
 
-| Detail | Value |
-|---|---|
-| **Course** | Makine Öğrenmesi (Machine Learning) |
-| **Department** | Bilgisayar Mühendisliği (Computer Engineering) |
-| **Semester** | 7. Dönem (7th Semester) |
-
----
-
-<div align="center">
-  <sub>Built with ❤️ for the Machine Learning course project</sub>
-</div>
